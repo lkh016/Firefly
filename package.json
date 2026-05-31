@@ -68,7 +68,7 @@
     "svelte": "^5.55.9",
     "typescript": "^5.9.2",
     "unist-util-visit": "^5.1.0"
-  },
+  },@astrojs/mdx
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.9",
     "@biomejs/biome": "2.4.15",
