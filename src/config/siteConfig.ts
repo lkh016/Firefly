@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "From Firefly",
 
 	// 站点 URL
-	site_url: "https://firefly.kejk.cn",
+	site_url: "https://sunlight.kejk.cn",
 
 	// 站点描述
 	description:
