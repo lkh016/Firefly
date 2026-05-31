@@ -56,7 +56,7 @@ export const adConfig2: AdConfig = {
 		external: false,
 	},
 	closable: true,
-	displayCount: 2,
+	displayCount: -1,
 	padding: {
 		// all: "1rem",
 	},

@@ -1,0 +1,26 @@
+{
+  "id": "20260531-083751",
+  "name": "",
+  "createdAt": "2026-05-31T00:37:58.939Z",
+  "reason": "save-before",
+  "summary": "保存前备份，涉及 2 个文件：src/config/backgroundWallpaper.ts: 首页副标题 (backgroundWallpaper.common.homeText.subtitle)；src/config/backgroundWallpaper.ts: 首页标题 (backgroundWallpaper.common.homeText.title)；src/config/adConfig.ts: 广告 2 显示次数 (adConfig2.displayCount)",
+  "files": [
+    {
+      "path": "src/config/backgroundWallpaper.ts",
+      "backupPath": "20260531-083751__src__config__backgroundWallpaper.ts.bak",
+      "existed": true,
+      "changes": [
+        "首页副标题 (backgroundWallpaper.common.homeText.subtitle)",
+        "首页标题 (backgroundWallpaper.common.homeText.title)"
+      ]
+    },
+    {
+      "path": "src/config/adConfig.ts",
+      "backupPath": "20260531-083751__src__config__adConfig.ts.bak",
+      "existed": true,
+      "changes": [
+        "广告 2 显示次数 (adConfig2.displayCount)"
+      ]
+    }
+  ]
+}

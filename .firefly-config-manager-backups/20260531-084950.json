@@ -1,0 +1,18 @@
+{
+  "id": "20260531-084950",
+  "name": "",
+  "createdAt": "2026-05-31T00:49:57.772Z",
+  "reason": "save-before",
+  "summary": "保存前备份，涉及 1 个文件：src/config/musicConfig.ts: 歌单/歌曲/专辑 ID (musicPlayerConfig.meting.id)；src/config/musicConfig.ts: 播放模式来源 (musicPlayerConfig.mode)",
+  "files": [
+    {
+      "path": "src/config/musicConfig.ts",
+      "backupPath": "20260531-084950__src__config__musicConfig.ts.bak",
+      "existed": true,
+      "changes": [
+        "歌单/歌曲/专辑 ID (musicPlayerConfig.meting.id)",
+        "播放模式来源 (musicPlayerConfig.mode)"
+      ]
+    }
+  ]
+}
