@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/xika.avif",
 
 	// 名字
-	name: "耙耙柑",
+	name: "L!!!!ght",
 
 	// 个人签名
-	bio: "是世界上最善良的水果",
+	bio: "Hello, I'm not a robot.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

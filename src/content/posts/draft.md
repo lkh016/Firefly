@@ -1,9 +1,13 @@
 ---
 title: 草稿示例
 published: 1970-01-01
-tags: [Markdown, 博客, 演示]
+tags:
+  - Markdown
+  - 博客
+  - 演示
 category: 文章示例
 draft: true
+date: 2026-05-31
 ---
 
 # 这篇文章是草稿

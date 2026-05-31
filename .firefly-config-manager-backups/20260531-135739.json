@@ -1,0 +1,18 @@
+{
+  "id": "20260531-135739",
+  "name": "",
+  "createdAt": "2026-05-31T05:57:46.369Z",
+  "reason": "save-before",
+  "summary": "保存前备份，涉及 1 个文件：src/config/profileConfig.ts: 名称 (profileConfig.name)；src/config/profileConfig.ts: 简介 (profileConfig.bio)",
+  "files": [
+    {
+      "path": "src/config/profileConfig.ts",
+      "backupPath": "20260531-135739__src__config__profileConfig.ts.bak",
+      "existed": true,
+      "changes": [
+        "名称 (profileConfig.name)",
+        "简介 (profileConfig.bio)"
+      ]
+    }
+  ]
+}

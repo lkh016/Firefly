@@ -1,0 +1,18 @@
+{
+  "id": "20260531-140202",
+  "name": "",
+  "createdAt": "2026-05-31T06:02:09.156Z",
+  "reason": "save-before",
+  "summary": "保存前备份，涉及 1 个文件：src/config/siteConfig.ts: 网站标题 (siteConfig.title)；src/config/siteConfig.ts: 导航标题 (siteConfig.navbar.title)",
+  "files": [
+    {
+      "path": "src/config/siteConfig.ts",
+      "backupPath": "20260531-140202__src__config__siteConfig.ts.bak",
+      "existed": true,
+      "changes": [
+        "网站标题 (siteConfig.title)",
+        "导航标题 (siteConfig.navbar.title)"
+      ]
+    }
+  ]
+}
